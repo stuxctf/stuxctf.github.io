@@ -3,7 +3,7 @@ author: CaptainIRS
 description: The Hacker Plus Theme
 google_analytics:
 google_site_verification_content: 
-#disqus_forum_shortname: captainirs-github-io
+disqus_forum_shortname: captainirs-github-io
 
 #Usernames and badges
 htb_badge_no:
@@ -42,5 +42,9 @@ collections:
    pages:
       output: true
       permalink: /:name
+   writeups:
+      output: False
+   solutions:
+      output: False
    blog:
       output: true
