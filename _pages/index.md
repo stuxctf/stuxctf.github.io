@@ -15,7 +15,7 @@ Speaker del Hacking Mobile Space en la Ekoparty2020 con el taller [Cómo armar t
 <br>
 # <center> CTFs Desarrollados </center>
 
-Aqui podran encontrar una pequeña lista de las maquinas que he desarrollado para [Tryhackme](https://tryhackme.com). Esta una nueva plataforma para aprender y enseñar ethical hacking. Se diferencia de la mayoría de las otras plataformas en que mientras que otras plataformas se centran principalmente en el autoaprendizaje mediante la creación de contenido para sus usuarios, TryHackMe utiliza una serie de técnicas diferentes para tratar de que sea más fácil para las personas aprender acerca de las diferentes, y a veces profundamente complejas, capas en el mundo de la ciberseguridad.
+Aqui podran encontrar una pequeña lista de las maquinas que he desarrollado para [Tryhackme](https://tryhackme.com). Esta es nueva plataforma para aprender y enseñar ethical hacking. Se diferencia de la mayoría de las otras plataformas en que mientras que otras plataformas se centran principalmente en el autoaprendizaje mediante la creación de contenido para sus usuarios, TryHackMe utiliza una serie de técnicas diferentes para tratar de que sea más fácil para las personas aprender acerca de las diferentes, y a veces profundamente complejas, capas en el mundo de la ciberseguridad.
 
 El orden de las maquinas lo encontraran de la mas reciente a la mas antigua.
 
