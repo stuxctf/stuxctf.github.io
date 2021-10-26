@@ -1,155 +1,42 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./writeups.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-<pre 
-  class="command-line" 
-  data-prompt="kali@kali $" 
-  data-output="4"
-><code class="language-bash"># Bash script with shell
-echo "flag{i_4m_a_f14g}" > flag.txt
-cat flag.txt
-flag{i_4m_a_f14g}
-rm flag.txt</code>
-</pre> 
-
-<pre class="line-numbers" 
-  data-start="1" 
-  data-line="6-7"
-><code class="language-dart">// Dart code with line numbers
-// Line 6 and 7 are highlighted
-
-import 'dart:ui';
-
-import 'package:shared_preferences_web/shared_preferences_web.dart';
-import 'package:url_launcher_web/url_launcher_web.dart';
-
-import 'package:flutter_web_plugins/flutter_web_plugins.dart';
-
-// ignore: public_member_api_docs
-void registerPlugins(PluginRegistry registry) {
-  SharedPreferencesPlugin.registerWith(registry.registrarFor(SharedPreferencesPlugin));
-  UrlLauncherPlugin.registerWith(registry.registrarFor(UrlLauncherPlugin));
-  registry.registerMessageHandler();
-}</code></pre>
+# <center> About Me </center>
 
 
-#### Header 4
+<img align="left" height="350px" width="350px" src="https://i.imgur.com/tEL1djI.png"> 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Hola, mi nombre es Cesar Caderon (a.k.a Stux) Actualmente soy miembro de un red team en una empresa privada la cual se encarga de ofrecer servicios de ciberseguridad. Cuento con varios años de experiencia en el sector de la ciberseguridad enfocado a la auditorías de aplicaciones móviles, web e infraestructura.
 
-##### Header 5
+Ganador del premio universitario ESET 2016, he sido creador de varios CTFs (Capture the Flag) para las comunidades de hackplayers y tryhackme, he participado como parte de comite organizador del OWASP Latam Tour entre otros eventos, Certified Penetration Testing Engineer.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Speaker del Hacking Mobile Space en la Ekoparty2020 con el taller [Cómo armar tu laboratorio para análisis de APK](https://www.youtube.com/watch?v=OPQEePWPrFw).
+<br>Speaker en Bsides Panama con la charla [Auditando Aplicaciones Android](https://www.youtube.com/watch?v=_Y3NVY4FZ_k).<br>
+<br>
+# <center> CTFs Desarrollados </center>
 
-###### Header 6
+Aqui podran encontrar una pequeña lista de las maquinas que he desarrollado para [Tryhackme](https://tryhackme.com). Esta una nueva plataforma para aprender y enseñar ethical hacking. Se diferencia de la mayoría de las otras plataformas en que mientras que otras plataformas se centran principalmente en el autoaprendizaje mediante la creación de contenido para sus usuarios, TryHackMe utiliza una serie de técnicas diferentes para tratar de que sea más fácil para las personas aprender acerca de las diferentes, y a veces profundamente complejas, capas en el mundo de la ciberseguridad.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+El orden de las maquinas lo encontraran de la mas reciente a la mas antigua.
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+1. [Bypass Disable Functions](https://tryhackme.com/room/bypassdisablefunctions).
+2. [Wordpress: CVE-2021-29447](https://tryhackme.com/room/wordpresscve202129447).
+3. [CMSpit](https://tryhackme.com/room/cmspit).
+4. [Couch](https://tryhackme.com/room/couch).
+5. [Res](https://tryhackme.com/room/res).
+6. [Aster](https://tryhackme.com/room/aster).
+7. [Poster](https://tryhackme.com/room/poster).
+8. [Kiba](https://tryhackme.com/room/kiba).
+9. [Ghizer](https://tryhackme.com/room/ghizerctf).
+10. [Nax](https://tryhackme.com/room/nax).
+11. [Tomghost](https://tryhackme.com/room/tomghost).
+12. [NoNameCTF](https://tryhackme.com/room/nonamectf).
+13. [hc0n Christmas CTF](https://tryhackme.com/room/hc0nchristmasctf).
+14. [Android Hacking 101](https://tryhackme.com/room/androidhacking101).
+15. [LaxCTF](https://tryhackme.com/room/laxctf).
+16. [Develpy](https://tryhackme.com/room/bsidesgtdevelpy).
+17. [Dav](https://tryhackme.com/room/bsidesgtdav).
+18. [Library](https://tryhackme.com/room/bsidesgtlibrary).
+19. [Thompson](https://tryhackme.com/room/bsidesgtthompson).
+20. [Anonforce](https://tryhackme.com/room/bsidesgtanonforce).
+21. [StuxCTF](https://tryhackme.com/room/stuxctf).
