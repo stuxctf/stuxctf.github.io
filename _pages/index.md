@@ -6,7 +6,7 @@ layout: default
 
 <img align="left" height="350px" width="350px" src="https://i.imgur.com/tEL1djI.png"> 
 
-Hola, mi nombre es Cesar Caderon (a.k.a Stux) Actualmente soy miembro de un red team en una empresa privada la cual se encarga de ofrecer servicios de ciberseguridad. Cuento con varios años de experiencia en el sector de la ciberseguridad enfocado a la auditorías de aplicaciones móviles, web e infraestructura.
+Hola, mi nombre es Cesar Calderon (a.k.a Stux) Actualmente soy miembro de un red team en una empresa privada la cual se encarga de ofrecer servicios de ciberseguridad. Cuento con varios años de experiencia en el sector de la ciberseguridad enfocado a la auditorías de aplicaciones móviles, web e infraestructura.
 
 Ganador del premio universitario ESET 2016, he sido creador de varios CTFs (Capture the Flag) para las comunidades de hackplayers y tryhackme, he participado como parte de comite organizador del OWASP Latam Tour entre otros eventos, Certified Penetration Testing Engineer.
 
