@@ -305,7 +305,7 @@ x86_64:/ $ su
 x86_64:/ $ id
 uid=0(root) gid=0(root) groups=0(root) context=u:r:su:s0
 ```
-Tenemos los privelegios mas altos en el sistema, ahora unicamente queda buscando la flag de root.
+Tenemos los privelegios mas altos en el sistema, ahora unicamente queda buscar la flag de root.
 
 #  Final
 
