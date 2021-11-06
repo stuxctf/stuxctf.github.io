@@ -71,7 +71,7 @@ Finalizado el escaneo tenemos la siguiente informacion:
 
 <img src="../../assets/images/explore/scan1.png">
 
-Una vez identificados que puertos estan abiertos en la maquina objectivos seguiremos recolectando informacion sobre que servicios y versiones de estos estan corriendo sobre estos puertos, para ello seguiremos utilizando nmap.
+Una vez identificados que puertos estan abiertos en la maquina objectivos seguiremos recolectando informacion sobre que servicios y versiones que estan corriendo sobre estos puertos, para ello seguiremos utilizando nmap.
 
 #### Parametros de Nmap:
 
