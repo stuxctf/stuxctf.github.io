@@ -126,7 +126,7 @@ A partir de los resultados obtenidos anteriormente, en esta fase es ejecutar exp
 
 **Sistema Vulnerable:** 10.10.10.247
 
-**Explicación de la vulnerabilidad:** ES File Explorer crear un servidor HTTP en el puerto 59777 cuando la aplicación es iniciada y permanece abierto aunque esta se cierre. Las peticiones que se envien a este puerto no requiere ningun tipo de autenticación permitendole a un acatante a través de peticiones HTTP ejecutar aplicaciones y leer archivos remotamente en la misma red local.
+**Explicación de la vulnerabilidad:** ES File Explorer crea un servidor HTTP en el puerto 59777 cuando la aplicación es iniciada y permanece abierto aunque esta se cierre. Las peticiones que se envien a este puerto no requiere ningun tipo de autenticación permitendole a un acatante a través de peticiones HTTP ejecutar aplicaciones y leer archivos remotamente en la misma red local.
 
 **Severidad:** Critica
 
