@@ -16,7 +16,7 @@ Las pruebas de penetración son el proceso de realizar pruebas de seguridad ofen
 
 Los diferentes tipos de pruebas de penetración en la nube incluyen:
 
-**Pruebas de penetración caja negra:** Simulación de ataques en la que los pentesters  no tienen conocimiento previo ni acceso a los sistemas en la nube.
+**Pruebas de penetración caja negra:** Simulación de ataques en la que los pentesters no tienen conocimiento previo ni acceso a los sistemas en la nube.
 
 **Pruebas de penetración caja gris:** Los pentester tienen un conocimiento limitado de los usuarios y los sistemas y se les pueden otorgar algunos privilegios de administración limitados.
 
@@ -143,7 +143,7 @@ Uso:
 ```
 Existen dos modos de uso de la herramienta:
 
-Scanner: Verificar configuraciones incorrectas
+Scanner: Verificar configuraciones incorrectas<br>
 Dump: Volcar el contenido de un bucket a una carpeta local
 
 ```bash
@@ -189,7 +189,7 @@ Al entrar a la direccion url dentro del secret van observar una pequeña explica
 
 **Bucket Vulnerable:** flaws.cloud
 
-**Explicación de la vulnerabilidad:** Un bucket S3 configurado de manera READ (LIST) para todos todos, puede permitir a los usuarios anónimos enumerar los objetos dentro del bucket.
+**Explicación de la vulnerabilidad:** Un bucket S3 configurado de manera READ (LIST) para todos, puede permitir a los usuarios anónimos enumerar los objetos dentro del bucket.
 
 **Severidad:** Muy Alto (No tolerado)
 
